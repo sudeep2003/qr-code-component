@@ -19,7 +19,7 @@ For the Frontend Mentor QR code component challenge, I created a QR code compone
 
 ### Screenshot
 
-![](design\screenshot.jpeg)
+<img src="design\screenshot.jpeg" alt="screenshot image" />
 
 
 ### Links
